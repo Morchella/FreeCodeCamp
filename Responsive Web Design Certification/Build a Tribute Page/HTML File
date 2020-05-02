@@ -1,0 +1,22 @@
+<script src="https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js"></script>
+
+<main id="main"> 
+  <h1 id="title">The XX</h1>
+  <figure id="img-div">
+    <img
+      id="image"
+      src="https://upload.wikimedia.org/wikipedia/commons/c/cb/The_xx_-_Ilosaarirock_2012.jpg" />
+      <figcaption id="img-caption">
+      The XX at Ilosaarirock Festival in Joensuu, Finland, in 2012. 
+    </figcaption>
+  </figure>   
+  <section id="tribute-info">
+    <h3 id="headline">Here is a list of the band's members:</h3>
+    <p>Romy Madley Croft – guitar, vocals
+Oliver Sim – bass guitar, vocals
+      Jamie xx – synthesiser, drums, keyboards, beats, MPC; record production</p>
+    <a
+        id="tribute-link"
+    href="https://en.wikipedia.org/wiki/The_xx"
+        target="_blank"
+        >Picture from Wikipedia entry</a>.
