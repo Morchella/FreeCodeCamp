@@ -1,0 +1,215 @@
+<div class="container">
+  <header class="header">
+    <h1 id="title" class="text-center">Covid-19 Symptoms Survey</h1>
+    <p id="description" class="description text-center">
+      Do not take this survey if you are not at least 18 years old
+    </p>
+  </header>
+  <form id="survey-form">
+    <div class="form-group">
+      <label id="name-label" for="name">Where are you located?</label>
+      <input
+        type="text"
+        name="place"
+        id="name"
+        class="form-control"
+        placeholder="City, State and Country"
+        required
+      />
+        </div>
+    <div class="form-group">
+      <label id="email-label" for="email">Email</label>
+      <input
+        type="email"
+        name="email"
+        id="email"
+        class="form-control"
+        placeholder="Enter your Email"
+        required
+      />
+    </div>    
+    <div class="form-group">
+      <label id="number-label" for="number">Age</label
+      >
+      <input
+        type="number"
+        name="age"
+        id="number"
+        min="18"
+        max="99"
+        class="form-control"
+        placeholder="Age"
+	required
+      />
+     </div>
+    <div class="form-group">
+      <p>Which option best describes your current situation?</p>
+      <select id="dropdown" name="role" class="form-control" required>
+        <option disabled selected value>Select current role</option>
+        <option value="healthcare">Healthcare worker</option>
+        <option value="essential">Essential worker not in healthcare</option>
+        <option value="home">Working or studying from home</option>
+        <option value="unemployed">Unemployed</option>
+        <option value="other">Other</option>
+      </select>
+    </div>
+
+    <div class="form-group">
+      <p>Did you, or have you been, hospitalized for COVID-19?</p>
+      <label>
+        <input
+          name="user-hospital"
+          value="yes"
+          type="radio"
+          class="input-radio"
+          checked
+        />Yes</label>
+      <label>
+        <input
+          name="user-hospital"
+          value="no"
+          type="radio"
+          class="input-radio"
+        />No</label
+      >
+    </div>
+
+    <div class="form-group">
+      <p>
+        In the 2 weeks leading up to your coronavirus test or quarantine, your SMELL sensitivity was:
+      </p>
+      <select id="smell" name="smell" class="form-control" required>
+        <option disabled selected value>Select an option</option>
+        <option value="absent">Completely absent</option>
+        <option value="decreased">Noticeably decreased</option>
+        <option value="normal">Normal</option>
+        <option value="increased">Increased</option>
+	<option value="other">Other</option>
+      </select>
+      </div>
+
+     <div class="form-group">
+	<p>In the 2 weeks leading up to your coronavirus test or quarantine, your TASTE sensitivity was:</p>
+      <select id="smell" name="smell" class="form-control" required>
+        <option disabled selected value>Select an option</option>
+        <option value="absent">Completely absent</option>
+        <option value="decreased">Noticeably decreased</option>
+        <option value="normal">Normal</option>
+        <option value="increased">Increased</option>
+	<option value="other">Other</option>
+      </select>
+    </div>
+
+    <div class="form-group">
+      <p>
+        In the 2 weeks leading up to your coronavirus (COVID-19) test or quarantine (whichever came first), did you experience any of the following symptoms different from your usual health:
+        <span class="clue">(Check all that apply)</span>
+      </p>
+
+      <label
+        ><input
+          name="symptoms"
+          value="fever-or-chills"
+          type="checkbox"
+          class="input-checkbox"
+        />Fever or chills</label
+      >
+      <label>
+        <input
+          name="symptoms"
+          value="new-or-worsened-cough"
+          type="checkbox"
+          class="input-checkbox"
+        />New or worsened cough</label
+      >
+      <label
+        ><input
+          name="symptoms"
+          value="change-in-sense-of-smell-or-taste"
+          type="checkbox"
+          class="input-checkbox"
+        />Change in sense of smell or taste</label
+      >
+      <label
+        ><input
+          name="symptoms"
+          value="unexplained-body-aches"
+          type="checkbox"
+          class="input-checkbox"
+        />Unexplained body aches</label
+      >
+      <label
+        ><input
+          name="symptoms"
+          value="new-sore-throat"
+          type="checkbox"
+          class="input-checkbox"
+        />New sore throat</label
+      >
+      <label
+        ><input
+          name="symptoms"
+          value="shortness-of-breath"
+          type="checkbox"
+          class="input-checkbox"
+        />Shortness of breath</label
+      >
+      <label
+        ><input
+          name="symptoms"
+          value="runny-nose"
+          type="checkbox"
+          class="input-checkbox"
+        />Runny nose</label
+      >
+      <label
+        ><input
+          name="symptoms"
+          value="stuffy-nose"
+          type="checkbox"
+          class="input-checkbox"
+        />Stuffy nose</label
+      >
+      <label
+        ><input
+          name="symptoms"
+          value="nausea-or-diarrhea"
+          type="checkbox"
+          class="input-checkbox"
+        />Nausea or diarrhea</label
+      >
+      <label
+        ><input
+          name="symptoms"
+          value="new-headache"
+          type="checkbox"
+          class="input-checkbox"
+        />New headache</label
+      >
+      <label
+        ><input
+          name="symptoms"
+          value="other"
+          type="checkbox"
+          class="input-checkbox"
+        />Other</label
+      >
+    </div>
+
+    <div class="form-group">
+      <p>Please provide any other comments about your coronavirus symptoms</p>
+      <textarea
+        id="comments"
+        class="input-textarea"
+        name="comment"
+        placeholder="Enter your comment here..."
+      ></textarea>
+    </div>
+
+    <div class="form-group">
+      <button type="submit" id="submit" class="submit-button">
+        Submit
+      </button>
+    </div>
+  </form>
+</div>
