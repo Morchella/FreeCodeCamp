@@ -1,0 +1,116 @@
+<div id="page-wrapper">
+  <header id="header">
+    <div class="logo">
+      <img
+        id="header-img"
+<!–– place link of logo here        src="" alt="" ––> 
+      <p style="font-family: Bradley Hand; font-size:30px;">True Love Matchmaking</p>
+    </div>
+
+    <nav id="nav-bar">
+      <ul>
+        <li><a class="nav-link" href="#features">Features</a></li>
+        <li><a class="nav-link" href="#how-it-works">How It Works</a></li>
+        <li><a class="nav-link" href="#pricing">Pricing</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <div class="container"></div>
+
+  <section id="hero">
+    <h2>Personalized Matchmaking</h2>
+    <form id="form" action="https://www.freecodecamp.com/email-submit">
+      <input
+        name="email"
+        id="email"
+        type="email"
+        placeholder="Enter your email address"
+        required
+      />
+      <input id="submit" type="submit" value="Find Love Now" class="btn" />
+    </form>
+  </section>
+
+  <div class="container">
+    <section id="features">
+      <div class="grid">
+        <div class="desc">
+          <h2>Personalization</h2>
+          <p>
+            Receive one on one consultations from your own dedicated matchmaker. 
+          </p>
+        </div>
+      </div>
+      <div class="grid">
+        <div class="desc">
+          <h2>Pre Screening</h2>
+          <p>
+           Getting to know all of our members means our matchmakers knows everyone you'll be meeting. We perform background checks as well as credit score checks on all our clients.</p>
+        </div>
+      </div>
+      <div class="grid">
+        <div class="icon">
+        </div>
+        <div class="desc">
+          <h2>Matchmaking</h2>
+          <p>
+            You will go on dates with other people who meet your physical criteria, personality requirements, interests and more.
+          </p>
+        </div>
+      </div>
+    </section>
+    <section id="how-it-works">
+      <iframe
+        id="video"
+        height="315"
+        src="https://www.youtube.com/embed/2uwFVah3ssk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+        frameborder="0"
+        allowfullscreen
+      ></iframe>
+    </section>
+    <section id="pricing">
+      <div class="product" id="classic">
+        <div class="level">Classic</div>
+        <h2>$15,000</h2>
+        <ol>
+          <li>Pre-Screening via Video Call</li>
+          <li>Pre-Screening in Person</li>
+          <li>Photoshoot for your member profile</li>
+          <li>1-3 dates with different people</li>
+        </ol>
+        <button class="btn">Select</button>
+      </div>
+      <div class="product" id="silver">
+        <div class="level">Silver</div>
+        <h2>$20,000</h2>
+        <ol>
+          <li>Everything in the Classic package</li>
+          <li>One on one consultation</li>
+          <li>Personality assessment</li>
+          <li>In person training before each date</li>
+        </ol>
+        <button class="btn">Select</button>
+      </div>
+      <div class="product" id="gold">
+        <div class="level">Gold</div>
+        <h2>$32,000</h2>
+        <ol>
+          <li>Everything in the Silver package</li>
+          <li>Up to 6 dates with different people</li>
+          <li>Curated dates</li>
+          <li>Feedback after dates</li>
+        </ol>
+        <button class="btn">Select</button>
+      </div>
+    </section>
+    <footer>
+      <ul>
+        <li><a href="#">Privacy</a></li>
+        <li><a href="#">Terms</a></li>
+        <li><a href="#">Contact</a></li>
+      </ul>
+      <span>Copyright 2020, True Love Matchmaking</span>
+    </footer>
+  </div>
+</div>
