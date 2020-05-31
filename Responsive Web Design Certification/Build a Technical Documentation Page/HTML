@@ -1,0 +1,266 @@
+<nav id="navbar">
+  <header>SEO Documentation</header> 
+  <ul>
+    <li><a class="nav-link" href="#Introduction">Introduction</a></li>
+    <li><a class="nav-link" href="#Choosing_a_Domain">Choosing a Domain</a></li>
+    <li><a class="nav-link" href="#SEO_for_URLs">SEO for URLs</a></li>
+    <li><a class="nav-link" href="#Basic_Content_Elements">Basic Content Elements</a></li>
+    <li><a class="nav-link" href="#Keyword_Research">Keyword Research</a></li>
+    <li><a class="nav-link" href="#SEO_Tools">SEO Tools</a></li>
+    <li><a class="nav-link" href="#Content_and_Keywords">Content and Keywords</a></li>
+    <li><a class="nav-link" href="#Local_SEO">Local SEO</a></li>
+    <li><a class="nav-link" href="#International_SEO">International SEO</a></li>
+    <li><a class="nav-link" href="#eCommerce_SEO">eCommerce SEO</a></li>
+    <li><a class="nav-link" href="#Blog_SEO">Blog SEO</a></li>
+    <li><a class="nav-link" href="#Analysis_and_Performance">Analysis and Performance</a></li>
+    <li><a class="nav-link" href="#Tracking_Tools">Tracking Tools</a></li>
+    <li><a class="nav-link" href="#Reference">Reference</a></li>
+  </ul>
+</nav>
+
+<main id="main-doc">
+  <section class="main-section" id="Introduction">
+    <header>Introduction</header>
+    <article>
+      <p>
+        SEO offers incredible opportunity and access (it's an inherently free marketing channel) to inbound traffic, but it can be hard to know where to start and what advice to follow. The Ultimate SEO Guide is here to dispel those myths, and give you everything you need to know about SEO to show up in Google and other search engines, and ultimately use SEO to grow your business. 
+      </p>
+
+      <p>
+        The Ultimate SEO Guide is split into four sections, designed to help make the learning process easier while providing easy reference as your SEO programs grow in complexity. From the most complex ideas to the most basic, this is a step-by-step blueprint to SEO success. We know it's a lot to cover, so each section serves as it's own specific reference point when problems or questions come up, or you can take the guide from start to finish for full SEO mastery.  
+      </p>
+      <ul>
+        <li>
+          Getting Started: The absolutely basics, each element you need to cross off your to do list when you first build a website. This section closes with the SEO checklist you can use to make sure you build your site in an SEO-friendly way.
+        </li>
+        <li>
+          Keyword Research: The strategy and tools you need to pick the right keywords for your site. Pick the right keywords to put into the basic elements you learned about in the previous section. 
+        </li>
+        <li>
+          Growth: More advanced, long-term growth strategies. Continue to grow your SEO to build business and drive traffic and rank for more terms. Learn how to apply the foundational Getting Started and Keyword Research skills to these growth initiatives.  
+        </li>
+        <li>
+          Tracking: Often overlooked, but one of the most important parts of successful SEO, this section walks through how you can track your success and tie your efforts back to real traffic and business, which gives you the opportunity to future tweak and optimize your programs.   
+        </li>
+      </ul>
+    </article>
+  </section>
+
+  <section class="main-section" id="Choosing_a_Domain">
+    <header>Choosing a Domain</header>
+    <article>
+      <p>A domain name defines the location of your website on the Internet. For example, the domain name for Elevation Headwear is:</p>
+<code>www.elevationheadwear.com</code>
+     <p>Choosing a domain for your website is an important first SEO step. Keywords in your domain are no longer an SEO ranking factor, so you need to choose domain name that matches your business, brand business or personality. Generally, the best domains for SEO are short and memorable, because a unique, easy to remember domains helps with link building and branding.</p>
+    </article>
+  </section>
+
+  <section class="main-section" id="SEO_for_URLs">
+    <header>SEO for URLs</header>
+    <article>
+      <p>
+        After choosing a domain name, optimizing the URLs for your pages is the next SEO step. SEO for your page URLs is important because keywords in the URL are a ranking factor and short and descriptive URLs can help with link building and user interaction. Like your visitors, search engines read a URL to get a clue for the contents of the page.
+      </p>
+
+      <p>
+        Think about using at least one keyword in the URL, but stay away from keyword stuffing, this might get your page flagged as spam and provides a bad user experience. This is an example of a spam-like link:
+
+<code>https:///www.yourwebsite.com/yellow-socks-blue-socks-green-socks</code>
+      </p>
+      <p>
+        Most importantly, you want to embrace the idea of semantic URL. You want your URL to immediately make sense to users and describe the topic and content of the page it represents. The more unique and memorable you can make a descriptive URL, the more likely people will remember, share and link to those URLs. A string of confusing numbers or nonsensical keyword stuffing can really hurt your SEO.
+      </p>
+    </article>
+  </section>
+
+  <section class="main-section" id="Basic_Content_Elements">
+    <header>Basic Content Elements</header>
+    <article>
+      <p>
+        When you use headlines on your page there is html markup to tell your browser that it's a headline. Search engines also look at a headline as a factor for context of the page, though the actual ranking signal for this is not as powerful as it was before, it's still valuable to use keywords in your content headlines. You should try to create good descriptive headlines for all content (pages, blog posts, product pages) that mention your keyword and help users understand the topic your page is about.
+      </p>
+
+      <p>
+        Body content is the main text blocs on your page. It's the most important piece of your SEO because even if you check off every other on-page SEO task, if the body content you've created isn't unique and providing quality it will never rank. At the most basic level, you want to till the pages on your website with content that is unique and is going to provide value to someone searching for the keywords represented in that content.
+      </p>
+      <p>
+        All site themes have the same basic components needed for great SEO: They are responsive, load quickly and don't contain blocking resources or unruly scripts. Where a theme does impact SEO is your ability to use the theme to put lots of unique, high-quality content on the page.
+      </p>
+    </article>
+  </section>
+  
+  <section class="main-section" id="Keyword_Research">
+    <header>Keyword Research</header>
+    <article>
+      <p>
+      Keywords are the phrases or queries people type into Google and other search engines to find the content they're looking for. Keyword Research is used to find those keywords so you can apply them to your SEO efforts. For a successful keyword research strategy, you want to match user intent (what people are searching for) with business value (which keywords bring the right person to your website).
+    </p>
+    <p>
+      The ideal keyword for your website meets two requirements. The first requirement is interest. The keyword  must be something people actually search for. If you look for a keyword that has 0 searches a month, it's not going to impact your business. Second requirement is relevance. You want keywords that make sense for your business and the content on your website. Ask yourself, if a visitor found my website after typing in a keyword in Google, would it answer the question? Also, would this be a valuable visitor for your business?
+    </p>
+    <p>
+      Make a list of all these words without thinking about SEO at all. Just write them all down and you'll get a good map of topics that matter for you. Talk to your customers or friends and see how they describe your website. What questions do people naturally ask you about your industry or areas of interest? These questions all help create a natural map of keyword ideas. Then, go and run these through a keyword tool to start to get real data.
+    </p>
+    </article>
+  </section>
+
+  <section class="main-section" id="SEO_Tools">
+    <header>SEO Tools</header>
+    <article>
+      <p>
+        Google Keyword Planner is free and can help you find new keyword ideas, understand keyword competition, and suggest other related topic for your site to target. The tool can also provide historical statistics on keywords as well as traffic forecasts for how they might perform in the future.
+      </p>
+      <p>
+        Moz Keyword Explorer offers keyword recommendations and detailed clickstream data. You can access it as part of the Moz Pro suite of SEO tools which start at $99/month with a 30-day free trial.
+      </p>
+      <p>
+        Ubersuggest gives you huge lists of data and content. Free tool.
+      </p>
+    </article>
+  </section>
+
+  <section class="main-section" id="Content_and_Keywords">
+    <header>Content and Keywords</header>
+    <article>
+      <p>
+       Google is getting better and better about understanding context around keyword and related topics, so it's more important now to write high-quality content first and apply keywords second. We call this "keyword drafting". Basically, focus on great content, then use keyword research to tweak what you've written to address high-value keywords that people are using in search engines for the topics related to your content.
+      </p>
+
+      <p>
+       Google doesn't need to see the exact keyword you've written mentioned a certain number of times anymore. Google can look at the surrounding topical relevance of content to understand what you're covering. To be clear, you still need to use keywords, but it's more important to produce really, unique and valuable content.
+      </p>
+      <code>The best skill you can develop is the ability to find keywords that are performing well, or have a lot of business potential, and then driving traffic with optimization.</code>
+      <p>
+        Another strategy for keywords and content is called keyword mapping. This involves taking the keywords you want to target and connecting it with the content you’ve already written on your site. Map them together to see what you can optimize, what new things you need to write and build, and what opportunities there are. Look at all your pages and the keywords you’ve built and see where there is opportunity to improve the page, with content, or CTR, or find content that has no keywords, or keywords with no content, find link building opportunities so you can push through harder.
+      </p>
+
+      <code>Keyword: Great Socks / URL: mysite.com/greatsocks / Volume: 3,000 / Grade: 70/100 / Internal Links: 20 / External Links: 5 / Engagement: Med / PA: 65 / Rank: #4 / Visits: 400
+
+Keyword: Yellow Socks / URL: mysite.com/yellow-socks / Volume: 1,000 / Grade: 80/100 / Internal Links: 4 / External Links: 1 / Engagement: High / PA: 40 / Rank: #12 / Visits: 10</code>
+    </article>
+  </section>
+
+  <section class="main-section" id="Local_SEO">
+    <header>Local SEO</header>
+    <article>
+      <p>
+        Local SEO has become much more important in recent years. According to a report from Google, 76% of people who search for something local on their smartphone visit a business related to that search within one day. Of those searches, nearly 30% result in a purchase. Local SEO helps your website show up in these local search results. A local results pages look very different than normal search results. These are queries where Google has decided approximation to a local area is an important factor. So if you look for sandwiches, Google believes the best results to show you are businesses that offer sandwiches in the city you search from.  
+      </p>
+
+      <p>
+        The amount of queries tagged as local is growing, along with the amount of special additions to those search result pages.
+      </p>
+    </article>
+  </section>
+
+  <section class="main-section" id="International_SEO">
+    <header>International SEO</header>
+    <article>
+      <p>
+        International SEO is all about getting your website to rank for different countries and in different languages. Hreflang tags an important first step for international SEO. Hreflang tags indicate to Google the language and location preferences of your content. This allows you to target content for English speakers in the United Kingdom or French speakers in Canada. The hreflang tag is a simple piece of html markup: 
+      </p>
+
+      <code> < link rel="alternate" href="https://www.yoursite.net" hreflang="fr-ca" > </code>
+
+      <p>
+       If you've built multiple sites to target different countries, you also want to set up a Google Search Console account for each site. Then, go to Search Traffic > International Targeting, an select the country you want to target from the country tab. This lets you tell Google directly want geo your site is targeted for while your hreflang will be signaling language (and geo).
+      </p>
+
+      <p>
+        Another really good signal for geo specific SEO is a ccTLD (a country code top-level domain). ccTLDs are very clear signal of your international intention with content. Hreflang + ccTLD + International Targeting in Google Search Console provides a super powerful set of international signals. If your international targets are also in a different language than your original site, you also need high-quality translated content throughout your pages and in the title tag and meta descriptions.
+      </p>
+
+      <p>
+        It's also important to try and obtain localized links. If you get links from other sites with the same language and geo signals that you are trying to target it can be a very valuable sign for international rankings. Reach out to local networks, organizations or small businesses in the areas that you're focused on to try and get these localized links.
+      </p>
+</article>
+  </section>
+
+  <section class="main-section" id="eCommerce_SEO">
+    <header>eCommerce SEO</header>
+    <article>
+      <p>SEO focused on product and store pages is known as eCommerce SEO. With these strategies you can turn your products into vehicles for inbound traffic. The best part,  these SEO programs drive the most valuable traffic you can find. Product (or service) pages are inherently conversion-focused, and visitors to those pages from search are already thinking about your product, so ranking in these search results gives you the best return on investment and the chance to drive sales quickly.</p>
+      <p>It’s important to build out the content on your product page. To start add a long description. Update the title tag, the page URL and the meta description. Use keyword research and content to keyword mapping to pick the optimum keyword targets for the content on these product pages. </p>
+      <p>After working on content and keywords, your eCommerce SEO needs links and product pages are the most important linkable asset. Start by reaching out to connections on your supply chain for testimonials and links back to your site. Any providers you use might want to use you as a testimonial on their website, and manufacturers would be happy to share where consumers can find their goods.</p>
+     <p>You should also try to find other products and businesses that compliment your offerings. Look for other companies selling things that would go really well with your offerings. Reach out and see if there's an opportunity to work together. You can link from each other's product pages, offer announcements or blog posts.</p>
+     <p>Try running a contest on your product page, not your blog or homepage. Share the contest on social media or contest websites. People share and link to contests so this will drive all those links and interaction signals directly to your product page.</p>
+    </article>
+  </section>
+
+  <section class="main-section" id="Blog_SEO">
+    <header>Blog SEO</header>
+    <article>
+      Blog SEO is important because it's one of the best tools you have to attack a wide range of topics and really broaden out the entire scope of your site's topical relevance to search engines. Don’t be afraid to create broad content, not just content in your niche. Benefits of Blogging:
+
+      <ul>
+        <li>Content can be used to convert customers.</li>
+        <li>Earn press amplification and links.</li>
+        <li>Reach a new audience.</li>
+        <li>Grow your brand awareness and authority.</li>
+        <li>Go into new markets, associate your brand with entirely new topic.</li>
+      </ul>
+      <p>
+        When blogging it's important to create an optimized Post URL, engaging meta description, headline with your top keyword and at least 300 words of keyword-mapped content. 
+      </p>
+      </article>
+  </section>
+
+  <section class="main-section" id="Analysis_and_Performance">
+    <header>Analysis and Performance</header>
+    <article>
+   <p>
+        The first tracking skill is to know when you change rank. Google Search Console is one of the best tools to track your page rank over time. You want to see when things are changing in the search pages sooner than later. 
+      </p>
+
+      <p>
+        Sometimes traffic drops are due to broader search engine changes and not in your control. Sometimes it's because a competitor is now stronger. These are all important changes that you can understand and use to improve your SEO program. Once you see these changes you can decide to make changes to the pages effected by them. 
+      </p>
+
+      <p>You should also take time to identify pages that may not have moved in search, but have an opportunity to rank higher. For example. track pages that rank on page 2 for keywords, or track keywords on position 4 to 7. In either scenario, if you move to up a few spots you could immediately double or triple the traffic you currently receive from those terms.
+</p>
+      <p>
+        It's also important to look at pages receiving search traffic. Study all the traffic coming to a page and see if it’s actually helping your business grow. Pages will rank for keywords you might not have targeted. This could give you valuable business insight into terms customers search for that are relevant that you didn't even know about. 
+      </p>
+      <p>
+        If people stop clicking on your site or bounce from your site back to search it's a strong signal that other pages on the SERP are more valuable and thus should be ranked in front of you. To check this and potentially make optimization decisions, look at your bounce rates from search traffic in Google Analytics and check Click Through Rates in Google Search Console. If you start to see dramatic changes or negative trends, it might be a good signal that you should update your Page Title, Page Description and Page Content to try and be more relevant to what people are searching for.
+      </p>
+    </article>
+  </section>
+
+  <section class="main-section" id="Tracking_Tools">
+    <header>Tracking Tools</header>
+    <article>
+      Free Tools from Search Engines:
+
+      <ul>
+        <li>Google Search Console (Webmaster Tools)</li>
+        <li>Google Analytics</li>
+        <li>Bing Webmaster Tools</li>
+      </ul>
+      <p>
+        SEO Tracking Platforms:
+      </p>
+       <ul>
+        <li>Moz</li>
+        <li>Ahrefs</li>
+        <li>SEMRush</li>
+      </ul>
+     </article>
+  </section>
+
+  <section class="main-section" id="Reference">
+    <header>Reference</header>
+    <article>
+      <ul>
+        <li>
+          All the documentation in this page is taken from
+          <a
+            href="https://www.weebly.com/seo"
+            target="_blank"
+            >Weebly</a
+          >
+        </li>
+      </ul>
+    </article>
+  </section>
+</main>
